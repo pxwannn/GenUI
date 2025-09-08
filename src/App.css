@@ -1,0 +1,36 @@
+ /* *{
+  margin:0;
+  padding: 0;
+}  */
+
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x:hidden ;
+  background-color: var(--primary-bg);
+  color: #fff;
+}
+html{
+  overflow-x: hidden;
+}
+:root{
+  --primary-bg:#09090B;
+  --secondary-bg:#141319;
+  --tertiary-bg:#17171C;
+}
+
+.icon{
+  padding: 15px;
+  font-size:20px;
+  border: 1px solid #1a1919;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: var(--secondary-bg);
+}
+.sp-text {
+  background: conic-gradient(at top, #1e293b, #a855f7); /* slate-800 to purple-500 */
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
