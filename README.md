@@ -16,19 +16,17 @@ Send prompts and get intelligent responses in real-time with a simple and clean 
 
 ## ⚡ Getting Started  
 
-### 1️⃣ Install dependencies  
+### Steps to run the project  
 ```bash
+# 1️⃣ Install dependencies
 npm install
 
-### 2️⃣ Add your Gemini API key 
-Create a .env file in the root of the project and add:
-```bash
+# 2️⃣ Add your Gemini API key
+# Create a .env file in the root of the project and add:
 VITE_GEMINI_API_KEY=your_api_key_here
 
-### 3️⃣ Run the app
-```bash
+# 3️⃣ Run the app
 npm run dev
 
-###4️⃣ Open in browser
-
+# 4️⃣ Open in browser
 http://localhost:5173
