@@ -12,7 +12,7 @@ Send prompts and get intelligent responses in real-time with a simple and clean 
 ## 🛠 Tech Stack  
 - **React**  
 - **Google Gemini AI**  
-- **Tailwind CSS** *(if included)*  
+- **Tailwind CSS** 
 
 ## ⚡ Getting Started  
 
